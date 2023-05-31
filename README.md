@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 ![image](https://github.com/IrmQ/IrmQ/assets/135153620/4c4c63cb-3075-4dc4-912d-38a3b9ce8e72)
 
 This dataset of over 9,000 cat images with annotations of the cat's head is interesting for several reasons. Firstly, it provides a large and diverse collection of cat images, which can be appealing to cat lovers, researchers, and developers working on computer vision and image processing tasks. The annotations of the head with nine points (eyes, mouth, and ears) provide valuable information for analyzing and understanding feline facial features and expressions.
@@ -23,4 +23,4 @@ It's worth noting that the dataset's structure and storage may also present chal
 - 📫 How to reach me: my drexel email!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to rollerblade
--->
+
